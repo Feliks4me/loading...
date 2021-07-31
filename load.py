@@ -16,5 +16,5 @@ def period(key = 'Loading', reps = 3):
             print(key,dot)
             time.sleep(0.5)
 
-#example:
+# example:
 # period('Fucking', 3)
