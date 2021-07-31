@@ -8,7 +8,7 @@ import os
 import time
 
 
-def period(key, reps = 3):
+def period(key = 'Loading', reps = 3):
     for r in range(reps):
         for i in range(4):
             os.system('clear')
